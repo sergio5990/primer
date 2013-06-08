@@ -7,5 +7,6 @@ public static void main(String[] args){
 	System.out.println(i);
 	
 	int r=7/0;
+	r=0;
 	}
 }
